@@ -19,6 +19,12 @@
       "skillPath": ".claude/skills/animated-component-libraries/SKILL.md",
       "computedHash": "af53d0b6930732ec4cc187351a53a43cdf25f18560fb82be8e1b07dccaf017e1"
     },
+    "animation-style-consistency": {
+      "source": "learnprompt/goodcase-lite",
+      "sourceType": "github",
+      "skillPath": "skills/generated/animation-style-consistency/SKILL.md",
+      "computedHash": "8325c5c209ba0cbad33c724480628a813058041cc545ed179b4cdc427402ea43"
+    },
     "banner-design": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
       "sourceType": "github",
@@ -36,6 +42,18 @@
       "sourceType": "github",
       "skillPath": "skills/canvas-design/SKILL.md",
       "computedHash": "3fa7ea60170023ad8268bf9fd734ea75dd404279a2ef8ddf5abaa1102ad8e5f4"
+    },
+    "comfyui-lora-training": {
+      "source": "mckruz/comfyui-expert",
+      "sourceType": "github",
+      "skillPath": "skills/comfyui-lora-training/SKILL.md",
+      "computedHash": "22c43e5d40babdca14c6dfb87d2c1d390dd7edaaeb2e6278695109270911a035"
+    },
+    "comfyui-prompt-engineer": {
+      "source": "mckruz/comfyui-expert",
+      "sourceType": "github",
+      "skillPath": "skills/comfyui-prompt-engineer/SKILL.md",
+      "computedHash": "793d557899b2a4e67223f3f4663f5ff516c34c4b3feb63961d5dc7b4580bc18d"
     },
     "copywriting": {
       "source": "coreyhaines31/marketingskills",
@@ -127,6 +145,36 @@
       "skillPath": "SKILL.md",
       "computedHash": "be186f7df573fdcddb78d3f873a9311986d563bcf5e9683300a66af4102e3807"
     },
+    "n8n-extending-mcp-official": {
+      "source": "n8n-io/skills",
+      "sourceType": "github",
+      "skillPath": "skills/n8n-extending-mcp-official/SKILL.md",
+      "computedHash": "e71c72c5ecfe7e53cbc20008f4b654ab0e8ffdece4384f086ca351c2602d67bd"
+    },
+    "n8n-subworkflows-official": {
+      "source": "n8n-io/skills",
+      "sourceType": "github",
+      "skillPath": "skills/n8n-subworkflows-official/SKILL.md",
+      "computedHash": "b7e76b3d120dfac9a8e941743f6fcce2a16932bb9c8d1c1b09b52b145dc6a771"
+    },
+    "n8n-workflow-lifecycle-official": {
+      "source": "n8n-io/skills",
+      "sourceType": "github",
+      "skillPath": "skills/n8n-workflow-lifecycle-official/SKILL.md",
+      "computedHash": "e9a6ae482f70bbac81e6583afaec51c3250f93dce78b4d2605a55dff2917c1b2"
+    },
+    "next-best-practices": {
+      "source": "vercel-labs/openreview",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/next-best-practices/SKILL.md",
+      "computedHash": "db85045827ebeb83ac8dbc992b69188755eeb74dcf01cbf5e694d58aa494a106"
+    },
+    "project-manager": {
+      "source": "mckruz/comfyui-expert",
+      "sourceType": "github",
+      "skillPath": "skills/project-manager/SKILL.md",
+      "computedHash": "ccfdbe827c3a84d510f3271caa926fb49ca9e81b71cae01a69ba5752554b9561"
+    },
     "prototype": {
       "source": "mattpocock/skills",
       "sourceType": "github",
@@ -150,6 +198,36 @@
       "sourceType": "github",
       "skillPath": "skills/remotion-best-practices/SKILL.md",
       "computedHash": "c2f1c22a68d1965d3c43b870b0632a074de82053df45bfb5fc58d77e9d907a2c"
+    },
+    "scenario": {
+      "source": "scenario-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/scenario/SKILL.md",
+      "computedHash": "d5cad64f2588b6bb7c046c4e4ae08836e9ac867a0e163eef7148f4b1ef92df5e"
+    },
+    "scenario-consistency": {
+      "source": "scenario-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/scenario-consistency/SKILL.md",
+      "computedHash": "4875bc5d449be2b29957211c6e618a210e6fedb7e29b52f3c6f51b04f52b50bd"
+    },
+    "scenario-identity-library": {
+      "source": "scenario-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/scenario-identity-library/SKILL.md",
+      "computedHash": "7eb4695b3948a23e8635672ddeef93a96ba7392eeba375e9db75a4e5fb076631"
+    },
+    "scenario-model-training": {
+      "source": "scenario-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/scenario-model-training/SKILL.md",
+      "computedHash": "9695b8d86dd4990539807a8e441136fc4e77cd0996bfab0a8def6a2a1ac95fbe"
+    },
+    "security-review": {
+      "source": "affaan-m/ecc",
+      "sourceType": "github",
+      "skillPath": "skills/security-review/SKILL.md",
+      "computedHash": "90f2b514aa106496fd0911d2a0e0ef5aac28515ce218a82574984ad7d9d6b4d2"
     },
     "seo-audit": {
       "source": "coreyhaines31/marketingskills",
@@ -175,11 +253,29 @@
       "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
       "computedHash": "27b1e8c953e26f962e3314281601959b04787edf3fd7fccadce176ff844c688d"
     },
+    "vercel-composition-patterns": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/composition-patterns/SKILL.md",
+      "computedHash": "f98931159fa9c7fed043bcd18a891a46dcf89ababa38df13a4c5b7b30dc0ce07"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "computedHash": "3219a1944e404ffc14d1d9d6aef6dd2e3855b81387ee0a044ccbfe14d34c2357"
+    },
     "video": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
       "skillPath": "skills/video/SKILL.md",
       "computedHash": "9755cc816fc5c05e382fb551d76158060fd89ee2b3105a73d2c8165e3e6bd9e1"
+    },
+    "video-prompting": {
+      "source": "square-zero-labs/video-prompting-skill",
+      "sourceType": "github",
+      "skillPath": "video-prompting/SKILL.md",
+      "computedHash": "9a98821eddf3b82988a8eec00dee3e51ee9d2e12eacd9e015c72a27f7e88c4bb"
     },
     "web-design-guidelines": {
       "source": "vercel-labs/agent-skills",
